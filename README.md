@@ -1,2 +1,2 @@
 ## Hi there 👋
-[gpg key](https://github.com/QKBMNWYM/QKBMNWYM/QKBMNWYM_0xE2085D8B_public.asc)
+[gpg key](https://raw.githubusercontent.com/QKBMNWYM/QKBMNWYM/refs/heads/main/QKBMNWYM_0xE2085D8B_public.asc)
